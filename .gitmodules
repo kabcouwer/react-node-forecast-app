@@ -1,0 +1,6 @@
+[submodule "node-forecast-api"]
+	path = node-forecast-api
+	url = https://github.com/kabcouwer/node-forecast-api
+[submodule "react-forecast-client"]
+	path = react-forecast-client
+	url = https://github.com/kabcouwer/react-forecast-client
